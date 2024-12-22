@@ -1,0 +1,80 @@
+{
+    "tank": {
+
+        "twin": {
+            
+            "tripleshot": [
+                "triplet", "pentashot", "spreadshot"
+            ],
+
+            "quad tank": [
+                "auto-5",  "octo tank"
+            ],
+
+            "double twin": [
+                "triple twin", "battleship"
+            ]
+        },
+
+        "sniper": {
+
+            "assassin": [
+                "ranger", "stalker"
+            ],
+
+            "overseer": [
+                "overlord", "necromancer", "manager",
+                "overtrapper", "battleship", "factory"
+            ],
+
+            "hunter": [
+                "predator", "streamliner"
+            ],
+
+            "trapper": [
+                "tri-trapper", "gunner trapper", "overtrapper",
+                "mega trapper", "auto-trapper"
+            ]
+
+        },
+
+        "machine gun": {
+
+            "destroyer": [
+                "hybrid", "annihilator", "skimmer",
+                "rocketeer", "glider"
+            ],
+
+            "gunner": [
+                "auto-gunner", "gunner trapper", "streamliner"
+            ],
+
+            "sprayer": []
+
+        },
+
+        "flank guard": {
+
+            "triangle": [
+                "booster", "fighter"
+            ],
+
+            "quad tank": [
+                "auto-5", "octo tank"
+            ],
+
+            "double twin": [
+                "battleship", "triple twin"
+            ],
+
+            "auto-3": [
+                "auto-5", "auto-gunner"
+            ]
+            
+        },
+
+        "smasher": [
+            "auto-smasher", "spike", "landmine"
+        ]        
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "basic": {
+
+        "twin": {
+
+            "double twin": {
+
+                "triple twin": [
+                    "quad twin", "auto-triple twin", "bent triple", 
+                    "hewn triple", "triple gunner", "warkwarkwark"
+                ],
+
+                "hewn double": [
+                    "hewn triple", "auto-hewn double", "cleft",
+                    "skewn double", "hewn flank double", "hewn gunner",
+                    "warkwawarkrk"
+                ],
+
+                "auto-double": [
+                    "mega auto-double twin", "triple auto-double", 
+                    "auto-triple twin", "auto-hewn double", "auto-bent double",
+                    "auto-double flank twin", "auto-double gunner", "auto-warkwark"
+                ],
+
+                "bent double": [
+                    "bent triple", "penta double", "auto-bent double", 
+                    "double triplet", "cleft", "double spreadshot",
+                    "bent flank double", "bent double gunner", "bent double minigun",
+                    "split double", "waarrkwaarrk"
+                ],
+
+                "double flank twin": [
+                    "quad twin", "triple flank twin", "hewn flank double",
+                    "auto-double flank twin", "bent flank double",
+                    "double flank gunner", "hipwatch", "scuffler", "warkwawawark"
+                ],
+
+                "double gunner": [
+                    "triple gunner", "hewn gunner", "auto-double gunner",
+                    "bent double gunner", "double flank gunner", "double nailgun",
+                    "double machine gunner", "overdouble gunner", "double battery",
+                    "double rimfire", "double volley", "double equalizer"
+                ],
+                
+                "warkwark": [
+                    "warkwarkwark", "warkwawarkrk", "auto-warkwark",
+                    "waarrkwaarrk", "warkwawawark", "double equalizer",
+                    "quardrail", "sealer", "setup"
+                ],
+
+                "double dual": [],
+                "double musket": [],
+                "overdouble twin": []
+
+            },
+
+            "triple shot": {
+
+                "penta shot": [
+                    "hepta shot", "penta double", "flexed hybrid",
+                    "quintuplet", "crackshot", "auto-penta shot",
+                    "flexed minigun", "deficiency", "waarararrk"
+                ],
+
+                "spreadshot": [
+                    "double spreadshot", "smearer", "auto-spreadshot",
+                    "dauber", "ballista", "bozo", "fungus"
+                ],
+
+                "bent hybrid": [
+                    "overshot", "bent synthesis", "hatcher",
+                    "bent hybriddrive", "bent crossbreed", "flexed hybrid",
+                    "smearer", "split hybrid", "auto-bent hybrid",
+                    "spambrid", "junker", "triprid", "bent cacher"
+                ],
+
+                "bent double": [
+                    "bent triple", "penta double", "auto-bent double", 
+                    "double triplet", "cleft", "double spreadshot",
+                    "bent flank double", "bent double gunner", "bent double minigun",
+                    "split double", "waarrkwaarrk"
+                ],
+
+                "triplet": [
+                    "quintuplet", "double triplet", "triprid", 
+                    "auto-triplet", "lasher", "minilet", 
+                    "nitwit", "warklet"
+                ],
+
+                "split shot": [
+                    "slit shot", "crackshot", "split hybrid",
+                    "split double", "auto-split shot", "hackshot",
+                    "dork", "splinter shot"
+                ],
+
+                "auto-triple shot": [
+                    "mega auto-triple shot", "triple auto-triple shot", 
+                    "auto-penta shot", "auto-spreadshot", "auto-bent hybrid",
+                    "auto-triplet", "auto-split shot", "auto-bent gunner",
+                    "auto-bent minigun", "auto-defect", "auto-waarrk"
+                ],
+
+                "bent gunner": [
+                    "flexed gunner", "spambrid", "bent double gunner",
+                    "auto-bent gunner", "dagger", "bent volley",
+                    "donkey"
+                ],
+
+                "bent minigun": [
+                    "flexed minigun", "bent double minigun", "junker", 
+                    "hackshot", "minilet", "bent streamliner",
+                    "bent barricade", "bent subverter", "jerker",
+                    "sizzler", "auto-bent minigun", "bent widget"
+                ],
+
+                "defect": [
+                    "deficiency", "bozo", "nitwit", "dork", 
+                    "donkey", "mangle", "loon", 
+                    "klutz", "jerker", "fault", "auto-defect"   
+                ],
+
+                "waarrk": [
+                    "waarararrk", "fungus", "bent cacher", 
+                    "waarrkwaarrk", "warklet", "splinter shot",
+                    "auto-waarrk", "dagger", "bent barricade",
+                    "fault", "bent bulwark", "brig", 
+                    "yard", "spitter"
+                ],
+
+                "threefold": [],
+                "flintlock": [],
+                "bent bulwark": []
+
+            },
+
+            "gunner": {
+
+                "auto-gunner": [
+                    "mega auto-gunner", "equalizer", "triple auto-gunner",
+                    "auto-nailgun", "auto-auto-4", "auto-machine gunner",
+                    "auto-gunner trapper", "auto-cyclone", "auto-overgunner",
+                    "auto-battery", "auto-buttbuttin", "auto-blower",
+                    "auto-rimfire", "auto-volley", "auto-double gunner"
+                ],
+
+                "nailgun": [
+                    "vulcan", "overnailer", "tacker",
+                    "auto-nailgun", "stapler", "pincer",
+                    "pinner", "fang", "licker",
+                    "jolter", "bracer", "double nailgun",
+                    "binder", "hammer"
+                ],
+
+                "auto-4": [
+                    "auto-6", "batter-4", "auto-auto-4",
+                    "wraith", "volley-4", "chisel",
+                    "trove"
+                ],
+
+                "machine gunner": [
+                    "contrivance", "clunker", "motor gunner",
+                    "sprinkler", "auto-machine gunner", "salvo",
+                    "double machine gunner", "machine volley"
+                ],
+
+                "gunner trapper": [
+                    "cleaver", "vallation", "lure",
+                    "tacker", "auto-gunner trapper", "gunner builder",
+                    "oracle", "gunner pen", "gunner mech", 
+                    "lavisher", "gunner tri-trapper"
+                ],
+
+                "cyclone": [
+                    "tornado", "dust storm", "auto-cyclone",
+                    "tempest", "gale", "whirlwind", 
+                    "trove"
+                ],
+
+                "overgunner": [
+                    "harbinger", "overnailer", "oracle", 
+                    "auto-overgunner", "despot", "overgunnerdrive",
+                    "battlegunner", "capgunner", "foregunner",
+                    "overdouble gunner", "overequalizer"
+                ],
+
+                "battery": [
+                    "cutlass", "stapler", "batter-4", 
+                    "motor gunner", "tempest", "lasher",
+                    "pummeler", "beater", "auto-battery",
+                    "double battery", "battery hybrid"
+                ],
+
+                "buttbuttin": [
+                    "baton", "marine", "harpy",
+                    "tailer", "fang", "barber",
+                    "mercenary", "auto-buttbuttin", "armament",
+                    "sifter"
+                ],
+
+                "blower": [
+                    "blackjack", "blusterer", "wiper",
+                    "buster", "licker", "walloper",
+                    "puffer", "auto-blower", "storm",
+                    "lavisher", "zephyr"
+                ],
+
+                "rimfire": [
+                    "brink", "pinner", "salvo",
+                    "lure", "harbinger", "beater",
+                    "barber", "walloper", "rimflak",
+                    "barrage", "double rimfire",  "auto-rimfire"
+                ],
+
+                "volley": [
+                    "cannonade", "volley-4", "tornado", 
+                    "pummeler", "barrage", "auto-volley",
+                    "double volley", "machine volley", "volley hybrid"
+                ],
+
+                "double gunner": [
+                    "triple gunner", "hewn gunner", "auto-double gunner",
+                    "bent double gunner", "double flank gunner", "double nailgun",
+                    "double machine gunner", "overdouble gunner", "double battery",
+                    "double rimfire", "double volley", "double equalizer"
+                ],
+
+                "bent gunner": [
+                    "flexed gunner", "spambrid", "bent double gunner",
+                    "auto-bent gunner", "dagger", "bent volley",
+                    "donkey"
+                ],
+
+                "equalizer": [
+                    "auto-equalizer", "whirlwind", "brink",
+                    "contrivance", "binder", "overequalizer",
+                    "cleaver", "cutlass", "baton",
+                    "blackjack", "double equalizer", "dagger",
+                    "machete", "hardware", "equalizer guard"
+                ],
+
+                "dam": []
+    
+            },
+
+            "hexa tank": {
+
+                "octo tank": [
+                    "deca tank", "tempest", "gale",
+                    "octo-trapper", "demise", "auto-octo tank",
+                    "consolidation"
+                ],
+
+                "cyclone": [
+                    "tornado", "dust storm", "auto-cyclone",
+                    "tempest", "gale", "whirlwind", 
+                    "trove"
+                ],
+
+                "hexa-trapper": [
+                    "mega hexa-trapper", "auto-hexa-trapper", "hexa-machine",
+                    "octo-trapper", "designer", "cozen", 
+                    "refuge", "coop", "hexa-mech", 
+                    "hexa-trap guard", "band"
+                ],
+
+                "death star": [
+                    "demise", "designer", "orbital strike",
+                    "auto-death star", "unity", "sequence"
+                ],
+
+                "auto-hexa tank": [
+                    "mega auto-hexa tank", "triple auto-hexa tank", "auto-octo tank",
+                    "auto-cyclone", "auto-death star", "auto-mingler", "auto-combo"
+                ],
+
+                "combo": [
+                    "consolidation", "sequence", "trove", 
+                    "alloy", "auto-combo", "band"
+                ],
+
+                "triple flank twin": []
+            },
+
+            "wark": {
+
+                "warkwark": [
+                    "auto-warkwark", "double equalizer", "quardrail",
+                    "sealer", "setup", "waarrkwaarrk", 
+                    "warkwarkwark", "warkwawarkrk", "warkwawawark"
+                ],
+
+                "waark": [
+                    "waarararrk", "fungus", "bent catcher",
+                    "waarrkwaarrk", "warklet", "splinter shot",
+                    "auto-waarrk", "dagger", "bent barricade",
+                    "fault", "bent bulwark", "brig",
+                    "yard", "spitter"
+                ],
+
+                "equalizer": [
+                    "auto-equalizer", "baton", "binder",
+                    "blackjack", "brink", "cleaver",
+                    "contrivance", "cutlass", "dagger",
+                    "double equalizer", "equalizer guard",
+                    "hardware", "machete", "overequalizer",
+                    "whirlwind"
+                ],
+
+                "hexa-trapper": [
+                    "mega hexa-trapper", "auto-hexa-trapper", "hexa-machine",
+                    "octo-trapper", "designer", "cozen", 
+                    "refuge", "coop", "hexa-mech", 
+                    "hexa-trap guard", "band"
+                ],
+
+                "hutch": [
+                    "kraal", "employer", "corella",
+                    "guardrail", "brig", "machete",
+                    "coop", "fencer", "retainer",
+                    "auto-hutch"
+                ],
+
+                "cog": [
+                    "sealer", "yard", "hardware", 
+                    "hexa-mech", "employer", "rigger",
+                    "empeder", "contriver", "auto-cog"
+                ],
+
+                "expeller": [
+                    "setup", "spitter", "contrivance",
+                    "hexa-machine", "kraal", "rigger",
+                    "stainer", "partition", "throttler",
+                    "auto-expeller"
+                ],
+
+                "bulwark": [
+                    "parapet", "partition", "thrasher",
+                    "dam", "striker", "bent bulwark",
+                    "stockade", "fencer", "impeder",
+                    "quadwark"
+                ],
+
+                "coalesce": [
+                    "overwark", "affiliator", "converger",
+                    "warkdrive", "commix", "bent catcher", 
+                    "retainer", "contriver", "throttler",
+                    "auto-coalesce"
+                ],
+
+                "auto-wark": [
+                    "mega auto-wark", "triple auto-wark", "auto-warkwark",
+                    "auto-waarrk", "auto-equalizer", "auto-hutch", 
+                    "auto-cog", "auto-expeller", "auto-bulwark",
+                    "auto-coalesce"
+                ],
+
+                "mega wark": []
+            },
+
+            "dual": [
+                "threefold", "double dual", "ravisher",
+                "vulture", "nimrod", "auto-dual",
+                "bifold", "dyadic"
+            ],
+
+            "bulwark": [
+                "parapet", "partition", "thrasher",
+                "dam", "striker", "bent bulwark",
+                "stockade", "fencer", "impeder",
+                "quadwark"
+            ],
+
+            "musket": [
+                "double musket", "flinklock", "arbalest",
+                "matchlock", "auto-musket", "duelist",
+                "bifold"
+            ],
+
+            "duo": []
+        }   
+    }
+}
