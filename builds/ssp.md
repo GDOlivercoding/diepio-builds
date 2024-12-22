@@ -1,9 +1,11 @@
 # Sea Serpent Build
 <img src="..\assets\ssp.jpg" width=200>
 
-in text form: **0/2/3/0/7/7/7/7**
+### in text form: **0/2/3/0/7/7/7/7**
 
 (short for **ssp**)
+
+---
 
 sea serpent build consists of maximum damage, movement speed, and some health, usually considered a very passive build due to its low bullet speed
 
